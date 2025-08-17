@@ -10,6 +10,6 @@ Performed exploratory data analysis (EDA) to identify patterns in delivery delay
 
 Designed and tracked KPIs such as on-time delivery rate, SLA compliance, and average delay.
 
-Built an interactive Power BI dashboard to visualize logistics performance and extract insights.
+Built an interactive Power BI dashboard to visualize logistics performance and extract insights(Ongoing).
 
 Applied SQL for structured querying and efficient data handling.
