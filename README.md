@@ -1,15 +1,43 @@
-This project analyzes Amazon delivery data to study delays, agent performance, and logistics efficiency. We performed data cleaning, exploratory analysis, and created KPIs such as on-time delivery rate, average delay, and SLA compliance. 
+This project analyzes Amazon delivery performance and logistics efficiency by exploring how different factors such as traffic, weather, agent ratings, and geography impact delivery times. The analysis aims to identify bottlenecks, optimize operations, and enhance customer satisfaction.
 
-An interactive Power BI dashboard was built to visualize trends and provide insights into delivery performance. Python was used for data preprocessing and analysis, while SQL helped in structured querying and managing datasets.
+ Objectives
 
-What I did:
+Understand delivery delay patterns across different traffic and weather conditions.
 
-Cleaned and preprocessed Amazon delivery data using Python (Pandas, NumPy).
+Compare on-time vs delayed delivery percentages.
 
-Performed exploratory data analysis (EDA) to identify patterns in delivery delays and agent performance.
+Analyze customer agent ratings in relation to delivery performance.
 
-Designed and tracked KPIs such as on-time delivery rate, SLA compliance, and average delay.
+Explore geographical distribution of delays using map visualizations.
 
-Built an interactive Power BI dashboard to visualize logistics performance and extract insights(Ongoing).
+Provide actionable insights through an interactive dashboard.
 
-Applied SQL for structured querying and efficient data handling.
+ Dashboard Highlights
+
+The interactive Power BI dashboard provides the following insights:
+
+44K Total Orders analyzed.
+
+Delivery Performance: 49% on-time vs 51% delayed.
+
+Average Delivery Time: 124.9 minutes.
+
+Traffic Impact: Deliveries take longest during traffic jams (147 mins).
+
+Weather Impact: Delays are higher in foggy and cloudy conditions.
+
+Monthly Trend: Delivery time decreased from 126 mins in Feb → 124 mins in April.
+
+Category-wise Orders: Even distribution across Electronics, Books, Jewelry, Grocery, Apparel, etc.
+
+Geo Analysis: Map visualization of delays across different drop locations.
+
+(See screenshot below)
+
+ Tools & Technologies
+
+Power BI → Interactive visual dashboard.
+
+Python (Pandas, NumPy, Matplotlib, Seaborn) → Data cleaning & preprocessing.
+
+Jupyter Notebook → Exploratory data analysis (EDA).
