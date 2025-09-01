@@ -21,7 +21,7 @@ The Power BI dashboard includes:
 - **Category-wise Orders:** Even distribution across **Electronics, Books, Jewelry, Grocery, Apparel**, etc.  
 - **Geo Analysis:** Map visualization of delays across drop locations.   
 
-## 🛠 Tools & Technologies  
+##  Tools & Technologies  
 - **Power BI** → Interactive dashboard  
 - **Python** → Data cleaning & preprocessing (`pandas`, `numpy`, `matplotlib`, `seaborn`)  
 - **Jupyter Notebook** → Exploratory data analysis (EDA)  
